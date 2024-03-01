@@ -1,0 +1,10 @@
+{
+  "extension_name": {
+    "message": "ArfWallet",
+    "description": "The display name for the extension."
+  },
+  "extension_description": {
+    "message": "The wallet app dedicated to the legacy of Cahit Arf.",
+    "description": "Description of what the extension does."
+  }
+}
