@@ -1,3 +1,9 @@
+## Arfhe is wallet which built in the FHE ecosystem. 
+
+the wallet used zama devnet. 
+
+
+
 # REPLACEME
 
 ## Building and running locally
